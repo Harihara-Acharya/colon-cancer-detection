@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+cancer_env/
+venv/
+
+# Dataset (VERY IMPORTANT)
+dataset/
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+# Model files
+*.h5
+*.keras
+colon_images/
+dataset/
